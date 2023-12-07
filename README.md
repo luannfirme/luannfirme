@@ -36,13 +36,7 @@
 ![SQL Server](https://skillicons.dev/icons?i=sqlite)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-
-## Habilidades Específicas
-- Desenvolvimento Back-end
-- Visão Computacional
-- Testes Automatizados (QA)
-
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=luannfirme&show_icons=true&include_all_commits=true&count_private=true&theme=react&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luannfirme&show_icons=true&theme=react&layout=compact)
 ![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=luannfirme&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luannfirme&show_icons=true&theme=react&layout=compact)
