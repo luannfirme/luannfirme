@@ -37,6 +37,6 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ## Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=luannfirme&show_icons=true&include_all_commits=true&count_private=true&theme=react&rank_icon=github)
-![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=luannfirme&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luannfirme&show_icons=true&theme=react&layout=compact)
+![Github Estatística](https://github-readme-stats.vercel.app/api?username=luannfirme&show_icons=true&include_all_commits=true&count_private=true&theme=react&rank_icon=github&locale=pt-br)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luannfirme&theme=react&border_radius=0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luannfirme&show_icons=true&layout=donut&theme=react)
