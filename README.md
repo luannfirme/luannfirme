@@ -8,8 +8,8 @@
 - 💻 Com experiência em programação em camadas, programação imperativa, POO, Testes Unitários, API, MVC, .Net, Bootstrap, Jquery.
 - 🛢️ Com experiência em bancos de dados SQL e MySQL.
 - 👨‍🏫 Com experiência em metodologia ágil, rotinas administrativas, ELO (Justiça Eleitoral), RAAS e BPA (DATASUS).
-- ⚡ Quase Bacharel em Ciências Econômica pela UESC ( é sério... ).
-- 🎭 Design Gráfico e Músico nas horas vagas ( Que são poucas... ).
+- ⚡ Quase Bacharel em Ciências Econômica pela UESC. ( é sério... )
+- 🎭 Design Gráfico e Músico nas horas vagas. ( Que são poucas... )
 
 ## Redes Sociais
 <p align="left">
@@ -44,5 +44,5 @@
 
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=luannfirme&show_icons=true&include_all_commits=true&count_private=true&theme=react&rank_icon=github)
-![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=luannfirme&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luannfirme&show_icons=true&theme=react&layout=compact)
+![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=luannfirme&theme=react)
