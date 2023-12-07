@@ -38,5 +38,5 @@
 
 ## Github Stats
 ![Github Estatística](https://github-readme-stats.vercel.app/api?username=luannfirme&show_icons=true&include_all_commits=true&count_private=true&theme=react&rank_icon=github&locale=pt-br)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luannfirme&theme=react&border_radius=0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luannfirme&show_icons=true&layout=donut&theme=react)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luannfirme&theme=react&border_radius=0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=300)](https://git.io/streak-stats)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luannfirme&show_icons=true&layout=donut&theme=react&locale=pt-br)
