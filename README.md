@@ -28,8 +28,9 @@
 ![NodeJs](https://skillicons.dev/icons?i=nodejs)
 
 ## Ferramentas
-![JQuery](https://skillicons.dev/icons?i=jquery)
+![Angular](https://skillicons.dev/icons?i=angular)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![JQuery](https://skillicons.dev/icons?i=jquery)
 
 
 ## Bancos de Dados Relacionais
